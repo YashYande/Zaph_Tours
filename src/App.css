@@ -1,0 +1,30 @@
+.image-container {
+  display: flex;
+  flex-direction: column;
+}
+.image-container img {
+  height: 200px;
+
+  object-fit: cover;
+  display: block;
+}
+.profile-img {
+  border-radius: 50%;
+}
+.linkdeco1 {
+  text-decoration: none;
+  color: #d4a373;
+  color: #94735179;
+}
+.linkdeco2 {
+  color: #201e1b;
+  text-decoration: none;
+}
+.linkdeco3 {
+  color: #201e1b;
+  text-decoration: none;
+}
+.active {
+  color: #06c076;
+  font-size: 1.2em;
+}
